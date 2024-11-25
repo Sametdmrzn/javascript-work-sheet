@@ -27,3 +27,15 @@ if(sonuc){
     alert(sayi + "asal değildir!");
 }
 //yukarıdaki kodlar asal sayı bulma kodlarıdır.
+
+
+
+
+let sayi = Number(prompt("Bir Sayı Giriniz..."));
+let carpim=1;
+
+for(let i =1; i<=sayi; i++){
+    carpim*=i;
+}
+alert("Sonuç=" + carpim);
+// yukarıdaki kodlar faktöriyele bulma kodlarıdır.

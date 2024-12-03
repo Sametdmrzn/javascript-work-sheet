@@ -56,3 +56,23 @@
 //     alert("Armstrong sayısı değildir");
 // }
 // Yukarıdaki kodlar ARMSTRONG sayısını bulma kodlarıdır.
+
+
+
+// let kullaniciGiris =prompt("Karesini almak istediğiniz sayıyı giriniz");
+
+// let donenDeger = cube(kullaniciGiris);
+// alert(donenDeger);
+
+// function kareAl(sayi){
+//     let sonuc = sayi*sayi;
+//     console.log(sonuc);
+// }
+
+// function cube(sayi){
+//     let sonuc = sayi*sayi*sayi;
+//     return sonuc;
+// }
+
+// Yukarıdaki kodlar küp alma kodlarıdır.
+
